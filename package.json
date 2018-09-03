@@ -1,6 +1,6 @@
 {
   "name": "secure-storage-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a secure storage for web client",
   "main": "lib/index.js",
   "scripts": {
